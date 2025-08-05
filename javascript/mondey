@@ -1,0 +1,7 @@
+
+<!-- https://mvnrepository.com/artifact/money.terra/sdk -->
+<dependency>
+    <groupId>money.terra</groupId>
+    <artifactId>sdk</artifactId>
+    <version>0.20.6-alpha1</version>
+</dependency>
