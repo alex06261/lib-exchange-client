@@ -10,3 +10,4 @@ A JVM Artifact has been published to Maven Central and can be imported as
 ```
 compile group: 'com.blockchain', name: 'exchange-rest-api', version: '1.0.0'
 ```
+
